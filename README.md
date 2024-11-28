@@ -18,3 +18,4 @@ Spring 웹 애플리케이션 개발자 김성민입니다.
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JupitorCentral&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
