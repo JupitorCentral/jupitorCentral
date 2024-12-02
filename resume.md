@@ -49,7 +49,7 @@ email : jupitorsendsme@gmail.com
 ### 실시간 웹소켓 시스템 구현
  >  **프로젝트 기간**: 2023.08  
  >  **역할**: 풀스택 개발자  
- >  **사용 기술**: stomp.js, Redis, WebSocket
+ >  **사용 기술**: jQuery, stomp.js, Redis, WebSocket
 
 **주요 성과:**
 - WebSocket을 활용한 실시간 데이터 동기화 시스템 구축
