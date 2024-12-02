@@ -18,9 +18,11 @@ email &nbsp;&nbsp; : &nbsp; jupitorsendsme@gmail.com
 
 <br>
 
-## Work Experience
+## Work Experiences
 
-### 건강검진 정산 시스템 구축
+### (주) 위엔 (2022.04 ~ 2024.05)
+
+#### 건강검진 정산 시스템 구축
 
  >  **프로젝트 기간**: 2023.09 ~ 2024.05  
  >  **역할**: 프로젝트 리더 / 풀스택 개발자  
@@ -46,7 +48,7 @@ email &nbsp;&nbsp; : &nbsp; jupitorsendsme@gmail.com
 
 <br>
 
-### 실시간 웹소켓 시스템 구현
+#### 실시간 웹소켓 시스템 구현 (파견)
  >  **프로젝트 기간**: 2023.08  
  >  **역할**: 풀스택 개발자  
  >  **사용 기술**: jQuery, stomp.js, Redis, WebSocket
@@ -58,9 +60,9 @@ email &nbsp;&nbsp; : &nbsp; jupitorsendsme@gmail.com
 
 <br>
 
-### 차세대 건강검진 시스템 구축
-**프로젝트 기간**: 2022.11 ~ 2023.06  
-**역할**: 특수검진 파트 담당 개발자  
+#### 차세대 건강검진 시스템 구축
+ >  **프로젝트 기간**: 2022.11 ~ 2023.06  
+ >  **역할**: 특수검진 파트 담당 개발자  
 **사용 기술**: Java, Spring Boot, Thymeleaf, Oracle Database
 
 **주요 성과:**
@@ -79,7 +81,7 @@ email &nbsp;&nbsp; : &nbsp; jupitorsendsme@gmail.com
 
 <br>
 
-### 우리원마켓 견적시스템 구축
+#### 우리원마켓 견적시스템 구축
  >  **프로젝트 기간**: 2022.07 ~ 2022.10  
  >  **역할**: 견적시스템 개발자  
  >  **사용 기술**: Thymeleaf, Java, Spring Boot, Oracle Database
