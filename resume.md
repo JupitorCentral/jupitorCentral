@@ -100,7 +100,7 @@ email &nbsp;&nbsp; : &nbsp; jupitorsendsme@gmail.com
 
 ### Backend
 - Language & Framework: Java, Spring Boot
-- Database: Oracle Database
+- Database: Oracle 
 - 실시간 통신: WebSocket, Redis
 
 ### Frontend
