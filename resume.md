@@ -1,16 +1,14 @@
 
-resume
 
--- 간단한 한마디 --
-
-Contact
+##  Contact
 
 github 주소 : https://github.com/JupitorCentral
 blog 주소 : https://ehdrh789.tistory.com/
 email : jupitorsendsme@gmail.com
 
+---
 
-## 핵심 역량
+## Core Competencies
 - 웹 애플리케이션 개발: Spring Boot 기반의 백엔드 개발 및 JSP/Thymeleaf 프론트엔드 개발 경험
 - 실시간 데이터 처리: WebSocket, Redis를 활용한 실시간 데이터 동기화 구현
 - 리더십과 의사소통: 이해관계자 간 효과적인 의견 조율 및 팀원들과의 원활한 소통 능력
@@ -18,9 +16,13 @@ email : jupitorsendsme@gmail.com
 - 팀 매니지먼트: 후임 개발자들에 대한 명확한 업무 지시와 체계적인 가이드 제공 능력
 - 문제 해결 능력: 복잡한 비즈니스 로직 구현 및 시스템 최적화
 
+<br>
+
+---
 ## Work Experience
 
 ### 건강검진 정산 시스템 구축
+
 **프로젝트 기간**: 2023.09 ~ 2024.05  
 **역할**: 프로젝트 리더 / 풀스택 개발자  
 **사용 기술**: Java, Spring Boot, JSP, Oracle Database
@@ -43,6 +45,8 @@ email : jupitorsendsme@gmail.com
    - 해결: 고객과의 지속적인 소통을 통한 요구사항 분석 및 기획, 구현, 테스트 사이클 확립
    - 결과: 고객 니즈에 정확히 부합하는 시스템 구축 및 프로젝트 성공적 완수
 
+<br>
+
 ### 실시간 웹소켓 시스템 구현
 **프로젝트 기간**: 2023.08  
 **역할**: 풀스택 개발자  
@@ -52,6 +56,8 @@ email : jupitorsendsme@gmail.com
 - WebSocket을 활용한 실시간 데이터 동기화 시스템 구축
 - Redis pub/sub 구현으로 다중 사용자 환경에서의 데이터 일관성 확보
 - 실시간 업데이트로 사용자 경험 개선 및 시스템 반응성 향상
+
+<br>
 
 ### 차세대 건강검진 시스템 구축
 **프로젝트 기간**: 2022.11 ~ 2023.06  
@@ -72,6 +78,8 @@ email : jupitorsendsme@gmail.com
    - 해결: 고객과의 적극적인 커뮤니케이션 및 요구사항 구체화
    - 결과: 고객 맞춤형 솔루션 제공 및 고객 만족도 향상
 
+<br>
+
 ### 우리원마켓 견적시스템 구축
 **프로젝트 기간**: 2022.07 ~ 2022.10  
 **역할**: 견적시스템 개발자  
@@ -84,7 +92,12 @@ email : jupitorsendsme@gmail.com
 **기술적 구현:**
 - 견적 요청 및 제안 관리 시스템 구축
 
+<br>
+
+---
+
 ## Tech Stack
+
 ### Backend
 - Language & Framework: Java, Spring Boot
 - Database: Oracle Database
