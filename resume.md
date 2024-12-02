@@ -2,9 +2,9 @@
 
 ##  Contact
 
-github 주소 : https://github.com/JupitorCentral
-blog 주소 : https://ehdrh789.tistory.com/
-email : jupitorsendsme@gmail.com
+github &nbsp;: &nbsp; https://github.com/JupitorCentral <br>
+blog  &nbsp;&nbsp;&nbsp; : &nbsp; https://ehdrh789.tistory.com/ <br>
+email &nbsp;&nbsp; : &nbsp; jupitorsendsme@gmail.com
 
 <br>
 
