@@ -6,7 +6,7 @@ github 주소 : https://github.com/JupitorCentral
 blog 주소 : https://ehdrh789.tistory.com/
 email : jupitorsendsme@gmail.com
 
----
+<br>
 
 ## Core Competencies
 - 웹 애플리케이션 개발: Spring Boot 기반의 백엔드 개발 및 JSP/Thymeleaf 프론트엔드 개발 경험
@@ -18,7 +18,6 @@ email : jupitorsendsme@gmail.com
 
 <br>
 
----
 ## Work Experience
 
 ### 건강검진 정산 시스템 구축
@@ -94,7 +93,6 @@ email : jupitorsendsme@gmail.com
 
 <br>
 
----
 
 ## Tech Stack
 
