@@ -2,9 +2,9 @@
 
 ##  Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/JupitorCentral <br><br>
-[![blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](#) <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://ehdrh789.tistory.com/ <br><br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jupitorsendsme@gmail.com
+github &nbsp;: &nbsp; https://github.com/JupitorCentral <br>
+blog  &nbsp;&nbsp;&nbsp; : &nbsp; https://ehdrh789.tistory.com/ <br>
+email &nbsp;&nbsp; : &nbsp; jupitorsendsme@gmail.com
 
 <br>
 
