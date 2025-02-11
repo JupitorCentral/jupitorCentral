@@ -34,4 +34,4 @@ Spring 애플리케이션 개발자 김성민입니다.
 <br>
 
 
-[![JupitorCentral's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JupitorCentral&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![JupitorCentral's Github Stats](https://github-readme-stats.vercel.app/api?username=JupitorCentral&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
