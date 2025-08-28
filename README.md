@@ -5,6 +5,8 @@ Spring 애플리케이션 개발자 김성민입니다.
 <br>
 <br>
 
+포트폴리오 : [💼](https://eggplant-radar-a39.notion.site/21bce1ca0c01803ab2aee783204bf7ea)
+
 <br>
 <p><b>🔍 Skills 🔍</b></p>
 
